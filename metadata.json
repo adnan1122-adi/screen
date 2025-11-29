@@ -1,0 +1,8 @@
+{
+  "name": "Classroom Signage Hub",
+  "description": "A centralized digital signage system for classrooms with schedule management, media playback, and automated bell systems.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
